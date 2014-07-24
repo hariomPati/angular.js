@@ -218,7 +218,7 @@ Use ngTouch when developing for mobile browsers/devices.
   <tr>
     <td>
       {@link ngTouch#directive Directives}
-    </td>
+    </td> 
     <td>
       Various directives are available in ngTouch to emulate mobile DOM events.
     </td>
